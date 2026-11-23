@@ -1,4 +1,4 @@
-# dotfiles_sub
+# wezterm-settings
 
 ## 設定一覧
 - [wezterm](/wezterm/README.md)
